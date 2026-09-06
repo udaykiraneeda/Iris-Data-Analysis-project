@@ -1,4 +1,4 @@
-# 🌸 Codveda Technology — Data Analytics Internship
+# Iris Data Analysis Project
 
 This repository contains all the tasks completed as part of the **Data Analytics Internship** at [Codveda Technology](https://www.codveda.com), using the classic **Iris dataset**.
 
