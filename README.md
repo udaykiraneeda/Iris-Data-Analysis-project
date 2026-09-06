@@ -47,8 +47,6 @@ The [Iris dataset](https://archive.ics.uci.edu/dataset/53/iris) contains 150 flo
 
 ---
 
-## 🙏 Acknowledgment
-
 Thanks to **Codveda Technology** for this hands-on learning opportunity in data analytics!
 
 #CodvedaJourney #CodvedaExperience #FutureWithCodveda
